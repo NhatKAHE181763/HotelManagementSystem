@@ -4,11 +4,11 @@ A mobile phone e-commerce website is an online platform designed to help custome
 
 ## Technologies Used
 - **Backend:**
-  - Java
+  - Java Core
   - Java Servlets
   - SQL Server (Database)
 - **Frontend:**
-  - HTML
-  - CSS
+  - Java Server Page(JSP)
+  - HTML/CSS
   - JavaScript
   - Bootstrap
